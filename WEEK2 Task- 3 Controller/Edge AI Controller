@@ -1,1 +1,28 @@
+EGDE AI CONTROLLER 
+
+Definition: 
+It is an AI based computational controller that processes AI algorithms locally instead of uploading it on a cloud and processing it over there.
+
+Advantages: 
+	  1.	Reduced costs.
+		2.	Fast responses.
+		3.	Security
+    
+Disadvantages:
+		1.	Efficiency and performance. The cloud computing system uses very powerful components unlike the edge computing. 
+		2.	Data loss might occur, as the data is being saved in the controller not in the cloud. 
+    
+Applications:
+		1.	Autonomous vehicles.
+		2.	Smart speakers.
+		3.	Industrial IoT.
+    
+Examples:
+		1.	NVIDIA Jetson Nano 
+		2.	Raspberry Pi
+		3.	Sipeed Maixduino
+		4.	ROCK PI N10
+    
+Overall Review: 
+		The Edge AI Computational Controllers are usually used to reduce the amount of data that must be processed by the cloud computer. As it will enhance the speed of the overall operation. This computing system in meant to be used for simple AI systems or for predictions, but not for training process. Since it requires more computational power.
 
